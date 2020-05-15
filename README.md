@@ -1,5 +1,3 @@
-# DevOps_Home_Work2 (given by Mr. Vimal Daga Sir)
-
 ## Work Description :
 
  #### 1. Create container image that’s has Jenkins installed  using dockerfile.
@@ -126,5 +124,3 @@
 
 ##### We can create better architecture of this practical using Kubernetes.
 ##### We can use this same setup in Cloud Services also.
-
-#### Thank you so much Mr. Vimal Daga Sir for teaching us these kinds of Integrations. Also a big thank you to my friend Ashish Kumar cause he helps me to learn lots of new concepts to do this Practical.
